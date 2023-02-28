@@ -1,4 +1,4 @@
-# price_pred
+# Map Translations
 
 A new Flutter project.
 

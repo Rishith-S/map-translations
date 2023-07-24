@@ -1,16 +1,6 @@
 # Map Translations
 
-A new Flutter project.
+This app takes satellite image as input and generates map image as output and vice-versa using GAN
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![map2](https://github.com/Rishith-S/map-translations/assets/87572747/80003431-f3ca-4214-bdb4-c28c2c374567)
+![map1](https://github.com/Rishith-S/map-translations/assets/87572747/3052bc13-050c-4768-ad86-fd44a3846b3b)
